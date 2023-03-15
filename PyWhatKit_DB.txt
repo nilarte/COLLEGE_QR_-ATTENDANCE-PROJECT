@@ -1,0 +1,45 @@
+Date: 16/2/2023
+Time: 16:0
+Phone Number: +917980136952
+Message: Test message from a Python script!
+--------------------
+Date: 16/2/2023
+Time: 16:1
+Phone Number: +917980136952
+Message: Test message from a Python script!
+--------------------
+Date: 16/2/2023
+Time: 16:2
+Phone Number: +917980136952
+Message: Test message from a Python script!
+--------------------
+Date: 16/2/2023
+Time: 16:3
+Phone Number: +917980136952
+Message: Test message from a Python script!
+--------------------
+Date: 16/2/2023
+Time: 16:4
+Phone Number: +917980136952
+Message: Registered Sucessfully!
+--------------------
+Date: 16/2/2023
+Time: 16:14
+Phone Number: +917980136952
+Message: Registered Sucessfully!
+--------------------
+Date: 16/2/2023
+Time: 16:17
+Phone Number: +917980136952
+Message: Registered Sucessfully!
+--------------------
+Date: 16/2/2023
+Time: 20:50
+Phone Number: +917980136952
+Message: Registered Sucessfully!
+--------------------
+Date: 16/2/2023
+Time: 23:17
+Phone Number: +917980136952
+Message: Registered Sucessfully!
+--------------------

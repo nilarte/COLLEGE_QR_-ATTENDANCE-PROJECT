@@ -9,7 +9,7 @@ The Application works in the described manner: i. User Registration is done via 
 Installation
 Requirements:
 
-- Python 2.7
+- Python 3.7
 * Windows or Linux
 + OpenCV
 - numpy (version 1.11.1)

@@ -1,3 +1,4 @@
+# Just a dummy change to demo pipeline
 # COLLEGE_QR_-ATTENDANCE-PROJECT
 The proposed solution offers a QR code for the attendees to scan it via a specific application. The QR code along with the attendee’s identity taken by the application will confirm his attendance.
 
